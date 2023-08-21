@@ -1,4 +1,6 @@
 # Data Professionals Survey Insights
+[Dashboard Preview]![Capture](https://github.com/GrimReaper-98/Data-Professionals-Survey-Insights/assets/58510419/0e7fb0af-d82e-4581-b220-9f7b54d28518)
+
 
 ## Overview
 
