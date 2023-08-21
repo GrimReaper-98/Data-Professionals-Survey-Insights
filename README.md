@@ -1,4 +1,4 @@
-# Power BI Dashboard - Data Professionals Survey Insights
+# Data Professionals Survey Insights
 
 ## Overview
 
